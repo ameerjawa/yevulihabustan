@@ -1,0 +1,69 @@
+{
+  "brand": "Yevulei HaBustan",
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Fresh Quality Vegetables for Restaurants and Businesses",
+    "subtitle": "Daily supply of fresh produce directly from farmers",
+    "cta": {
+      "view_products": "View Products",
+      "contact_whatsapp": "Contact via WhatsApp"
+    }
+  },
+  "product": {
+    "catalog_title": "Our Catalog",
+    "catalog_description": "Wide variety of fresh, quality vegetables. Contact us for pricing and more information.",
+    "all_categories": "All Categories",
+    "all_qualities": "All Qualities",
+    "price": "Price per",
+    "unit": "kg",
+    "outOfStock": "Out of Stock",
+    "inSeason": "In Season",
+    "outOfSeason": "Out of Season",
+    "contact": "Contact",
+    "unavailable": "Currently Unavailable",
+    "inquiry_message": "Hi, I would like to know more about",
+    "inStockOnly": "In Stock Only",
+    "inSeasonOnly": "In Season Only",
+    "discount": "off",
+    "quality": {
+      "premium": "Premium",
+      "a": "Grade A",
+      "b": "Grade B",
+      "c": "Grade C"
+    },
+    "per_unit": "unit",
+    "per_kg": "kg",
+    "per_g": "g",
+    "tomorrow_price": "Tomorrow's Price",
+    "price_updated": "Price Updated",
+    "no_tomorrow_price": "Tomorrow's price not set"
+  },
+  "reviews": {
+    "addReview": "Add Review",
+    "customerName": "Customer Name",
+    "restaurantName": "Restaurant Name",
+    "rating": "Rating",
+    "content": "Review Content",
+    "submit": "Submit Review",
+    "submitSuccess": "Review submitted successfully!",
+    "submitError": "Error submitting review",
+    "pendingApproval": "Your review will be published after approval",
+    "noReviews": "No reviews yet"
+  },
+  "common": {
+    "cancel": "Cancel"
+  },
+  "testimonials": {
+    "title": "What Our Customers Say",
+    "subtitle": "Reviews from satisfied customers"
+  },
+  "advantages": {
+    "title": "Our Advantages",
+    "subtitle": "Why Choose Us?"
+  }
+}

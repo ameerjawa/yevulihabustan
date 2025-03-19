@@ -1,0 +1,91 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* RTL Support */
+[dir="rtl"] {
+  text-align: right;
+}
+
+[dir="ltr"] {
+  text-align: left;
+}
+
+/* Import Rubik font for logo */
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600&display=swap');
+
+/* Base styles */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  -webkit-tap-highlight-color: transparent;
+}
+
+#root {
+  height: 100%;
+}
+
+/* Logo styles */
+.logo-text {
+  font-family: 'Rubik', system-ui, -apple-system, sans-serif;
+  letter-spacing: 0.05em;
+  font-weight: 500;
+}
+
+/* Language-specific font settings */
+:lang(he) {
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+:lang(ar) {
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+:lang(en) {
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+/* Mobile optimizations */
+@media (max-width: 640px) {
+  html {
+    font-size: 14px;
+  }
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Better touch targets on mobile */
+@media (max-width: 640px) {
+  button, 
+  [role="button"],
+  a {
+    min-height: 44px;
+    min-width: 44px;
+  }
+}
+
+/* Prevent text size adjustment on orientation change */
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+/* Remove tap highlight on mobile */
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Improve form elements on mobile */
+input,
+select,
+textarea {
+  font-size: 16px !important;
+}
+
+/* Improve scrolling */
+* {
+  -webkit-overflow-scrolling: touch;
+}

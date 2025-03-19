@@ -1,0 +1,69 @@
+{
+  "brand": "يفولي هبوستان",
+  "nav": {
+    "home": "الرئيسية",
+    "products": "المنتجات",
+    "about": "عن الشركة",
+    "contact": "اتصل بنا"
+  },
+  "hero": {
+    "title": "خضروات طازجة وعالية الجودة للمطاعم والشركات",
+    "subtitle": "توريد يومي للمنتجات الطازجة مباشرة من المزارعين",
+    "cta": {
+      "view_products": "عرض المنتجات",
+      "contact_whatsapp": "تواصل عبر واتساب"
+    }
+  },
+  "product": {
+    "catalog_title": "منتجاتنا",
+    "catalog_description": "مجموعة متنوعة من الخضروات الطازجة عالية الجودة. اتصل بنا للحصول على الأسعار ومزيد من المعلومات.",
+    "all_categories": "الكل",
+    "all_qualities": "جميع الدرجات",
+    "price": "السعر لكل",
+    "unit": "كجم",
+    "outOfStock": "نفذ من المخزون",
+    "inSeason": "في الموسم",
+    "outOfSeason": "خارج الموسم",
+    "contact": "اتصل بنا",
+    "unavailable": "غير متوفر حالياً",
+    "inquiry_message": "مرحباً، أود معرفة المزيد عن",
+    "inStockOnly": "المتوفر فقط",
+    "inSeasonOnly": "في الموسم فقط",
+    "discount": "خصم",
+    "quality": {
+      "premium": "ممتاز",
+      "a": "درجة أ",
+      "b": "درجة ب",
+      "c": "درجة ج"
+    },
+    "per_unit": "وحدة",
+    "per_kg": "كغم",
+    "per_g": "غرام",
+    "tomorrow_price": "سعر الغد",
+    "price_updated": "تم تحديث السعر",
+    "no_tomorrow_price": "لم يتم تحديد سعر الغد"
+  },
+  "reviews": {
+    "addReview": "إضافة تقييم",
+    "customerName": "اسم العميل",
+    "restaurantName": "اسم المطعم",
+    "rating": "التقييم",
+    "content": "محتوى التقييم",
+    "submit": "إرسال التقييم",
+    "submitSuccess": "تم إرسال التقييم بنجاح!",
+    "submitError": "حدث خطأ في إرسال التقييم",
+    "pendingApproval": "سيتم نشر تقييمك بعد الموافقة عليه",
+    "noReviews": "لا توجد تقييمات بعد"
+  },
+  "common": {
+    "cancel": "إلغاء"
+  },
+  "testimonials": {
+    "title": "ماذا يقول عملاؤنا",
+    "subtitle": "آراء عملائنا السعداء"
+  },
+  "advantages": {
+    "title": "مميزاتنا",
+    "subtitle": "لماذا تختارنا؟"
+  }
+}

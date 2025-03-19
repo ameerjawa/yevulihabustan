@@ -1,0 +1,138 @@
+{
+  "brand": "יבולי הבוסתן",
+  "nav": {
+    "home": "ראשי",
+    "products": "מוצרים",
+    "about": "אודות",
+    "contact": "צור קשר"
+  },
+  "hero": {
+    "title": "ירקות טריים ואיכותיים למסעדות ועסקים",
+    "subtitle": "אספקה יומית של תוצרת טרייה ישירות מהחקלאים",
+    "cta": {
+      "view_products": "צפה במוצרים",
+      "contact_whatsapp": "צור קשר בוואטסאפ"
+    }
+  },
+  "export":{
+    "all":"ייצא הכל",
+    "byCategory":"ייצא לפי קטגוריה"
+  },
+  "services": {
+    "title": "השירותים שלנו",
+    "subtitle": "אנחנו מספקים שירות מקצועי ואיכותי לכל לקוחותינו"
+  },
+  "customerTypes": {
+    "title": "הלקוחות שלנו",
+    "subtitle": "אנחנו מספקים שירות למגוון רחב של עסקים ומוסדות"
+  },
+  "product": {
+    "name":"שם",
+    "status": "סטטוס",
+    "quality_text":"איכות",
+    "catalog_title": "הקטלוג שלנו",
+    "catalog_description": "מגוון רחב של ירקות טריים ואיכותיים. צרו איתנו קשר לקבלת הצעת מחיר ומידע נוסף.",
+    "all_categories": "כל הקטגוריות",
+    "all_qualities": "כל הדרגות",
+    "price": "מחיר לק\"ג",
+    "unit": "ק\"ג",
+    "outOfStock": "אזל מהמלאי",
+    "inStock": "במלאי",
+    "inSeason": "בעונה",
+    "outOfSeason": "לא בעונה",
+    "contact": "צור קשר",
+    "unavailable": "לא ניתן להזמין כרגע",
+    "inquiry_message": "היי, אני מעוניין לשמוע פרטים על",
+    "inStockOnly": "במלאי בלבד",
+    "inSeasonOnly": "בעונה בלבד",
+    "discount": "הנחה",
+    "quality": {
+      "premium": "פרימיום",
+      "a": "סוג א'",
+      "b": "סוג ב'",
+      "c": "סוג ג'"
+    },
+    "per_unit": "יחידה",
+    "per_kg": "ק\"ג",
+    "per_g": "גרם",
+    "tomorrow_price": "מחיר למחר",
+    "price_updated": "מחיר עודכן",
+    "no_tomorrow_price": "טרם נקבע מחיר למחר"
+  },
+  "search": {
+    "placeholder": "חיפוש מוצרים...",
+    "noResults": "לא נמצאו מוצרים",
+    "retry": "נסה שוב",
+    "error": "שגיאה בטעינת המוצרים",
+    "filters": {
+      "toggle": "סינון",
+      "category": "קטגוריה",
+      "quality": "איכות",
+      "price": "טווח מחירים",
+      "minPrice": "מחיר מינימלי",
+      "maxPrice": "מחיר מקסימלי",
+      "inStock": "במלאי בלבד",
+      "season": "בעונה בלבד"
+    }
+  },
+  "sort": {
+    "name": "מיון לפי שם",
+    "price": "מיון לפי מחיר",
+    "quality": "מיון לפי איכות"
+  },
+  "view": {
+    "grid": "תצוגת רשת",
+    "compact": "תצוגה מצומצמת",
+    "list": "תצוגת רשימה",
+    "table": "תצוגת טבלה"
+  },
+  "featured": {
+    "title": "מוצרים מובילים",
+    "description": "המוצרים הפופולריים שלנו"
+  },
+  "reviews": {
+    "addReview": "הוסף ביקורת",
+    "customerName": "שם הלקוח",
+    "restaurantName": "שם המסעדה",
+    "rating": "דירוג",
+    "content": "תוכן הביקורת",
+    "submit": "שלח ביקורת",
+    "submitSuccess": "הביקורת נשלחה בהצלחה!",
+    "submitError": "אירעה שגיאה בשליחת הביקורת",
+    "pendingApproval": "הביקורת תפורסם לאחר אישור",
+    "noReviews": "אין ביקורות עדיין"
+  },
+  "common": {
+    "cancel": "ביטול"
+  },
+  "testimonials": {
+    "title": "מה הלקוחות שלנו אומרים",
+    "subtitle": "ביקורות מלקוחות מרוצים"
+  },
+  "contact": {
+    "title": "צור קשר",
+    "subtitle": "אנחנו כאן לעזור בכל מה שקשור לתוצרת טרייה",
+    "call_us": "התקשר אלינו",
+    "whatsapp": "וואטסאפ",
+    "email": "דוא\"ל",
+    "send_message": "שלח הודעה"
+  },
+  "footer": {
+    "quick_links": "קישורים מהירים",
+    "business_hours": "שעות פעילות",
+    "days": {
+      "sunday": "ראשון",
+      "monday": "שני",
+      "tuesday": "שלישי",
+      "wednesday": "רביעי",
+      "thursday": "חמישי",
+      "friday": "שישי",
+      "saturday": "שבת"
+    },
+    "rights": "כל הזכויות שמורות"
+  },
+  "advantages": {
+    "title": "היתרונות שלנו",
+    "subtitle": "למה לבחור בנו?"
+  }
+}
