@@ -24,7 +24,7 @@ export default function Navbar() {
           <div className="flex items-center">
             <Link to="/" className="flex items-center">
               <div className="flex items-center gap-3">
-              <img src="../src/1236.png" alt="test" className="h-10 w-10" />
+              <img src="/1236.png" alt="test" className="h-10 w-10" />
               <div className="flex flex-col">
                   <div className="text-3xl font-extrabold" style={{ fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif' }}>
                     <span className="text-green-600">יבולי הבוסתן</span>
