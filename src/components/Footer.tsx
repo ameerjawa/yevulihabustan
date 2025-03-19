@@ -17,8 +17,8 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           <div className="col-span-1">
             <div className="flex items-center mb-4">
-              <Sprout className="h-8 w-8 text-green-500" />
-              <span className="mr-2 text-xl font-bold">
+            <img src="../src/1236.png" alt="test" className="h-10 w-10" />
+            <span className="mr-2 text-xl font-bold">
                 {settings.site_name}
               </span>
             </div>
